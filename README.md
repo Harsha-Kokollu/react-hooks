@@ -1,5 +1,27 @@
 # Getting Started with Create React App
 
+Install create-react-app globally (if you haven't already):
+
+    npm install -g create-react-app
+
+Create a new React app:
+
+    npx create-react-app my-react-app
+
+    cd my-react-app
+
+Install react-router-dom for routing:
+
+    npm install react-router-dom
+
+
+
+    1. useState
+    2. useEffect
+    3. useContect
+    4. useRef
+    5. useReducer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
